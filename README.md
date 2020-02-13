@@ -1,15 +1,20 @@
 # Abdi.github.io
 My-portfolio
+
 my portfolio containing personal information. 13|02|2020
+
 By Abdihafid Abdi
+
 Description
 {it contains my image,my education background, interest and some of my project.}
+
 Technologies Used
 html and css.
+
 Support and contact details
 My Email:moonboyfidu123@gmail.com
-MIT License
 
+MIT License
 Copyright (c) [year] [fullname]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
